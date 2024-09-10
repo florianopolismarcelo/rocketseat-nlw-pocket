@@ -28,8 +28,30 @@ Constantes
 ## Tipos de dados
 
 Strings (textos): ""   ''  ``
-number 2  1.4
+- [x] number 2  1.4
+- [x] Boolean: true, false
+
 
 ## Operadores
-Operadores de atribuição de valor
+- [x] Operadores de atribuição de valor
+- [x] Operador de contatenação
 
+## Estruturas de dados
+
+### Arrays:
+
+- [x] Uma lista que contem qualquer tipo de dados
+
+
+### Objetos
+
+- [x] Atributos e métodos
+- [x] Criação e manipulação de objetos
+- [x] Acesso a propriedades de objetos
+
+
+### Functions
+
+- [x] criar, passar argumento
+- [x] execultar
+- [x] arrow function / named function
