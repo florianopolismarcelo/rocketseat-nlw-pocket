@@ -1,3 +1,21 @@
+let meta = {
+    value: 'Ler um livro por mês.',
+    checked: true,
+}
+
+let metas = [
+    meta,
+    {
+        value: "Caminhar 20 minutos todos os dias.",
+        checked: false
+    }
+]
+console.log(meta.value)
+console.log(metas[1].value)
+
+
+
+
 /* Assunto: hello word
 let mensagem = "hello world"
 console.log(mensagem) */
