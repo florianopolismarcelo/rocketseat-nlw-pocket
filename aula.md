@@ -61,7 +61,9 @@ Strings (textos): ""   ''  ``
 
 - [x] while
 
+# Condicionais 
 
+- [x] switch
 
 
 
@@ -128,3 +130,15 @@ const start = () =>{
 }
 start()
  */
+
+ /* Abaixo é um contador de 1 a 10
+
+const start = () =>{ 
+    let count = 1
+    while(count <= 10) {
+        console.log(count)
+        count = count + 1
+    }
+}
+start()
+*/
