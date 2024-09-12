@@ -8,10 +8,11 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 
 ## Peças de uma linguagem
 
-- [X]Comentários
+- Comentários
 - Declaração de váriaveis (const,, let)
-- Operadpres (atribuição, concatenação, matemática, lógicos )
-- tipos de dados (fucnctions, object, array)
+- Operadores (atribuição, concatenação, matemática, lógicos )
+- Tipos de dados (string, number, boolean)
+- Estruturas de dados (fucnctions, object, array)
 - Controle de fluxo (if/else)
 - Estrutura de repetição (for, while)
 
@@ -32,9 +33,11 @@ Strings (textos): ""   ''  ``
 - [x] Boolean: true, false
 
 
+
 ## Operadores
 - [x] Operadores de atribuição de valor
-- [x] Operador de contatenação
+- [x] Operador de contatenação: +
+- [x] Operadores de comparação: ==  !=   <=  >=  < > 
 
 ## Estruturas de dados
 
@@ -64,6 +67,7 @@ Strings (textos): ""   ''  ``
 # Condicionais 
 
 - [x] switch
+- [x] if/else
 
 
 ## Módulos em Node.js:
