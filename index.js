@@ -203,8 +203,8 @@ const start = async () => {
             case "deletar":
                 await deletarMetas()
                 break
-            case "Sair":
-                console.log("Até a próxima")
+            case "sair":
+                console.log("Até a próxima!")
                 return
         
         }
