@@ -1,3 +1,9 @@
+## Aplicativo de metas concluído :)
+
+- Agora é cadastrar as metas e seguir, boa sorte!
+
+
+
 ## Linguagem de programação
 
 Maneira de dar instrução ao computador.
